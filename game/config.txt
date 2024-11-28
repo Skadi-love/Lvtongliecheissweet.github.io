@@ -1,0 +1,6 @@
+Game_name:无尽的8月22日;
+Game_key:aa4cd4bcbe5255;
+Title_img:title3.png;
+Title_bgm:Arcaea_Team-Swan-Song.m4a;
+Textbox_theme:imss;
+Game_Logo:genshin.jpg;

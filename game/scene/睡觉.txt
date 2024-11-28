@@ -1,0 +1,7 @@
+changeBg: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+:然后…… -fontSize=default;
+:……我就什么都不记得了。 -fontSize=default;
+intro:GAME OVER -fontSize=medium -backgroundColor=rgba(255, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500 -hold;
+end;
